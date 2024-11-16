@@ -1,5 +1,5 @@
 an# Tiny Tapeout project information
-project: ALU4bit
+project: "ALU4bit"
   title:        "ALU4bit"      # Project title
   author:       "Chethan_Reddy"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
